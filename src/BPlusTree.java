@@ -25,7 +25,7 @@ public class BPlusTree {
 
     /**
      * Climbs down the tree by key values till reaches leaf node and checks if the sought value is there
-     *
+     * There was supposed to be an additional text here but no time left
      * @param node
      * @param soughtValue
      * @return
@@ -101,6 +101,7 @@ public class BPlusTree {
     }
 
     /**
+     * Insterting function
      * @param node
      * @param newKey
      * @param
